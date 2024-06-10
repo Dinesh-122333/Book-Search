@@ -1,0 +1,33 @@
+/* src/styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  padding: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+.book-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.book-results {
+  margin-top: 20px;
+}
+
+.bookshelf .book-card {
+  margin-bottom: 10px;
+}
