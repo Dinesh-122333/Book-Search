@@ -1,5 +1,6 @@
 # Book Search Application
 
+### Hosted Link: https://gilded-pudding-4ff928.netlify.app/
 A simple React application for searching books using the Open Library API and managing a personal bookshelf. 
 
 ## Features
@@ -27,6 +28,11 @@ Before you begin, ensure you have met the following requirements:
 
   cd book-search-app
 
+3. **Technologies**
+   
+   1)React JS for frontend
+   3)Bootstrap for responsiveness
+   4)Axios for api handling
 
 ### Explanation:
 
